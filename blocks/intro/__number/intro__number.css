@@ -1,0 +1,9 @@
+.intro__number {
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px; /* или 150% */
+    color: #FFFFFF;
+    margin: 0;
+}
